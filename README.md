@@ -14,7 +14,7 @@
 
   <br>
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shaharia.me-FF6B6B?style=for-the-badge&logoColor=white)](https://shaharia.me)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shaharia.me-FF6B6B?style=for-the-badge&logoColor=white)](https://shaharia.dev)
   [![Email](https://img.shields.io/badge/📧_Email-alaminalshaharia@gmail.com-4ECDC4?style=for-the-badge&logoColor=white)](mailto:alaminalshaharia@gmail.com)
   [![University](https://img.shields.io/badge/🎓_PSTU-Computer_Science-45B7D1?style=for-the-badge&logoColor=white)](#)
 
